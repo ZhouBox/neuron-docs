@@ -485,7 +485,13 @@
         },
         {
           "title": "Brother CNC",
-          "path": "configuration/south-devices/brother-cnc/brother-cnc"
+          "path": "configuration/south-devices/brother-cnc/brother-cnc",
+          "children": [
+            {
+              "title": "设备端配置",
+              "path": "configuration/south-devices/brother-cnc/brother-cnc-setup"
+            }
+          ]
         },
         {
           "title": "NEURON HUB",
@@ -1245,7 +1251,13 @@
         },
         {
           "title": "Brother CNC",
-          "path": "configuration/south-devices/brother-cnc/brother-cnc"
+          "path": "configuration/south-devices/brother-cnc/brother-cnc",
+          "children": [
+            {
+              "title": "Device-Side Configuration",
+              "path": "configuration/south-devices/brother-cnc/brother-cnc-setup"
+            }
+          ]
         },
         {
           "title": "NEURON HUB",
